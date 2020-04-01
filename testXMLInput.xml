@@ -1,0 +1,18 @@
+<cells>
+    <cell>
+        <name>A1</name>
+        <text>1</text>
+        <value>1</value>
+    </cell>
+    <cell>
+        <name>A2</name>
+        <text>2</text>
+        <value>2</value>
+    </cell>
+    <cell>
+	   <blah>nothing</blah>
+        <name>A3</name>
+        <text>=A1+A2</text>
+        <value>3</value>
+    </cell>
+</cells>
